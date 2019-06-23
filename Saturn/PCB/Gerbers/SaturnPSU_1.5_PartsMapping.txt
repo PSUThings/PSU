@@ -1,0 +1,44 @@
+Partlist
+
+Exported from SaturnPSU_1.5.brd at 12/03/2018 15:52
+
+EAGLE Version 8.4.3 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                       Package                     Library        Position (mm)         Orientation
+
+C1       1uF                         C0603                       DreamPSURev1-9 (11.6 6.8)            R0
+C2       100nF                       C0603                       DreamPSURev1-9 (10.6 14.6)           R180
+C9       10pF                        C0603                       DreamPSURev1-9 (7.58 39.97)          R270
+C10      22uF                        C0805                       DreamPSURev1-9 (23.8 14.6)           R90
+C15      22uF                        C0805                       DreamPSURev1-9 (17.3 9.6)            R90
+C16      100nF                       C0603                       DreamPSURev1-9 (24 7.1)              R0
+C17      47uF                        C1206                       resistor       (38.9 5.9)            R180
+C18      22uF                        C0805                       DreamPSURev1-9 (21.1 14.6)           R90
+C19      10uF                        C1206                       DreamPSURev1-9 (15.3 42.2)           R0
+C20      10uF                        C1206                       DreamPSURev1-9 (15.27 39.63)         R0
+C21      1uF                         C0603                       DreamPSURev1-9 (4.66 33.15)          R180
+C22      8.2nF                       C0603                       DreamPSURev1-9 (4.66 35.25)          R180
+C23      100nF                       C0603                       DreamPSURev1-9 (18.815 36.059)       R0
+C24      22uF                        C0805                       DreamPSURev1-9 (18.5 14.6)           R90
+J1       9v                          KF2510-5A-2.54MM            SaturnPSU_1.5  (39.1 15.5)           R90
+J5       5V                          6030916A                    SaturnPSU_1.4  (25.5 37.8)           R90
+J6       12V                         6030916A                    SaturnPSU_1.4  (33.7 37.8)           R270
+J7       5V                          6030916A                    SaturnPSU_1.4  (30 37.8)             R90
+JP1      MOLEX-5PIN-09-48-3054       09-48-3054                  SaturnPSU_1.5  (25.785 21.865)       R0
+JP4      DC-PWRSW                    1-1123724-2                 SaturnPSU_1.5  (4.277 9.636)         R270
+JP5      640445-2_3.96MM-2PIN-HEADER 640445-2_3.96MM-2PIN-HEADER SaturnPSU_1.4  (6.76 21.55)          R270
+L2       2.5uH                       PA4341.252NLT               SaturnPSU_1.5  (30.1 8.3)            R90
+L3       2.5uH                       PA4341.252NLT               SaturnPSU_1.4  (21.26 30.35)         R90
+R1       54.9k                       R0603                       DreamPSURev1-9 (14.6 6.1)            R90
+R5       10.2k                       R0603                       DreamPSURev1-9 (17.6 6.4)            R180
+R6       33.2k                       R0603                       DreamPSURev1-9 (24 5)                R0
+R9       22.1k                       R0603                       DreamPSURev1-9 (4.66 37.35)          R0
+R10      124k                        R0603                       DreamPSURev1-9 (5.461 39.98)         R90
+R11      10.2k                       R0603                       DreamPSURev1-9 (8.543 31.058)        R270
+R12      100k                        R0603                       DreamPSURev1-9 (4.66 31.05)          R180
+SW1      AYZ0102AGRLC                AYZ0102AGRLC                SaturnPSU_1.5  (18.6 3.9)            R0
+U2       TPS54525PWPR                R-PDSO-G14                  DreamPSURev1-9 (12.66 35.26)         R0
+U5       L78L09ABUTR                 SOT-89                      SaturnPSU_1.5  (11.7 10.5)           R270
+U6       TPS563200DDCR               DDC0006A                    SaturnPSU_1.5  (20.8 8.6)            R270

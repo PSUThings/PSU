@@ -1,0 +1,51 @@
+Partlist
+
+Exported from DreamPSURev2-0.brd at 12/03/2018 16:44
+
+EAGLE Version 8.4.3 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                       Package                     Library        Position (mm)         Orientation
+
+C1       22uF                        C0805                       DreamPSURev1-9 (39.9 1.84)           R0
+C2       100nF                       C0603                       DreamPSURev1-9 (33.2 21.64)          R270
+C3       10pF                        C0603                       DreamPSURev1-9 (37 33.04)            R180
+C4       10uF                        C1206                       DreamPSURev1-9 (38.8 26.14)          R270
+C5       10uF                        C1206                       DreamPSURev1-9 (36.4 26.14)          R270
+C6       22uF                        C0805                       DreamPSURev1-9 (34.7 13.99)          R180
+C7       22uF                        C0805                       DreamPSURev1-9 (34.7 16.49)          R180
+C8       1uF                         C0603                       DreamPSURev1-9 (30.2 35.74)          R90
+C9       8.2nF                       C0603                       DreamPSURev1-9 (32.3 35.74)          R90
+C10      100nF                       C0603                       DreamPSURev1-9 (12.509 10.385)       R270
+C11      10pF                        C0603                       DreamPSURev1-9 (16.42 21.62)         R180
+C12      10uF                        C1206                       DreamPSURev1-9 (18.85 13.9)          R270
+C13      10uF                        C1206                       DreamPSURev1-9 (16.28 13.93)         R270
+C14      22uF                        C0805                       DreamPSURev1-9 (18.7291 2.9035)      R90
+C15      22uF                        C0805                       DreamPSURev1-9 (15.8 2.89)           R90
+C16      1uF                         C0603                       DreamPSURev1-9 (9.6 24.54)           R90
+C17      8.2nF                       C0603                       DreamPSURev1-9 (11.7 24.54)          R90
+J1       5V                          10X02MTA                    DreamPSURev1-9 (44 29)               R90
+J2       12V                         10X02MTA                    DreamPSURev1-9 (44 22.5)             R90
+J3       5V                          10X02MTA                    DreamPSURev1-9 (44 35.5)             R90
+J4       12V                         10X02MTA                    DreamPSURev1-9 (44 16)               R90
+JP1      09-48-3064                  09-62-3062                  DreamPSURev1-9 (33.44 8.32)          R0
+JP2      DC-PWRSW                    1-1123724-2                 SaturnPSU_1.5  (7.786 35.823)        R180
+JP3      640445-2_3.96MM-2PIN-HEADER 640445-2_3.96MM-2PIN-HEADER SaturnPSU_1.5  (19.6 35.94)          R180
+L1       2.5uH                       PA4341.252NLT               SaturnPSU_1.5  (28 19.04)            R0
+L2       2.5uH                       PA4341.252NLT               SaturnPSU_1.5  (6.5 8.2)             R0
+R1       10.2k                       R0603                       DreamPSURev1-9 (27.8 32.44)          R180
+R2       124k                        R0603                       DreamPSURev1-9 (37 35.14)            R0
+R3       100k                        R0603                       DreamPSURev1-9 (28.1 35.74)          R90
+R4       22.1k                       R0603                       DreamPSURev1-9 (34.4 35.74)          R270
+R5       10.2k                       R0603                       DreamPSURev1-9 (7.508 20.657)        R180
+R6       73.2k                       R0603                       DreamPSURev1-9 (16.43 23.739)        R0
+R7       100k                        R0603                       DreamPSURev1-9 (7.5 24.54)           R90
+R8       22.1k                       R0603                       DreamPSURev1-9 (13.8 24.54)          R270
+TP1      TPSQB1,27                   B1,27                       DreamPSURev1-9 (27.49 1.99)          R0
+TP2      TPSQB1,27                   B1,27                       DreamPSURev1-9 (31.47 2)             R0
+TP3      TPSQB1,27                   B1,27                       DreamPSURev1-9 (23.5352 1.9785)      R0
+TP4      TPSQB1,27                   B1,27                       DreamPSURev1-9 (43.37 1.99)          R0
+TP5      TPSQB1,27                   B1,27                       DreamPSURev1-9 (35.43 2.05)          R0
+U1       TPS54525PWPR                R-PDSO-G14                  DreamPSURev1-9 (32.3 28.24)          R270
+U3       TPS54525PWPR                R-PDSO-G14                  DreamPSURev1-9 (11.71 16.54)         R270
