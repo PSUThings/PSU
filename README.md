@@ -3,7 +3,7 @@ I have included as much info as i think you will need to get one of these up and
 The rear adapters are stl files ready for 3d printing, the original design files i couldnt find, but shouldnt be needed.  
 No licence, do what you want with the files.   
 
-As suggested by someone, here is the links to oshpark. These should be easier for people who have no idea how to get a psb made but can solder well. 
+As suggested by someone, here is the links to oshpark. These should be easier for people who have no idea how to get a pcb made but can solder well. 
 
 DreamPSU
 https://oshpark.com/shared_projects/REVINxcE
