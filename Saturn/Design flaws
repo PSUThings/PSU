@@ -1,0 +1,9 @@
+The SaturnPSU design is flawed. 
+
+1 - The 9V voltage regulator is rated at 0.1 amp and insufficient to power the CD drive. 
+
+2 - The 3.3V / 5V switch is also rated at 0.1 amp and insufficient for the power demands of the console. 
+
+3 - There's no provision for Saturn console revisions that utilise 12V as opposed to 9V. 
+
+The first issue is major. It prevents the stock CD drive of the Saturn from functioning. 1 amp is needed. This affects consoles with type A and B power supplies. 
